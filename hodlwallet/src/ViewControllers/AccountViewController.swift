@@ -325,7 +325,7 @@ class AccountViewController : UIViewController, Subscriber {
     }
 
     private func attemptShowWelcomeView() {
-        if !UserDefaults.hasShownWelcome {
+        /*if !UserDefaults.hasShownWelcome {
             let welcome = WelcomeViewController()
             welcome.transitioningDelegate = welcomeTransitingDelegate
             welcome.modalPresentationStyle = .overFullScreen
@@ -333,7 +333,7 @@ class AccountViewController : UIViewController, Subscriber {
             welcomeTransitingDelegate.shouldShowMaskView = false
             loginView.present(welcome, animated: true, completion: nil)
             UserDefaults.hasShownWelcome = true
-        }
+        }*/
     }
     
     private func attemptShowSegwitView() {
