@@ -9,13 +9,13 @@
 import UIKit
 import BRCore
 
-let utxoApiURL = "https://esplora.groestlcoin.org/api/address/%@/utxo"
+private let utxoApiURL = "https://esplora.groestlcoin.org/api/address/%@/utxo"
 private let utxoApiFalbackURL = "https://esplora.groestlcoin.org/api/address/%@/utxo"
 private let utxoApiTestnetURL = "https://esplora-test.groestlcoin.org/api/address/%@/utxo"
 
 private let txApiURL = "https://esplora.groestlcoin.org/api/tx/%@"
-private let txApiFalbackURL = "https://esplora.groestlcoin.org/api/v2/tx/%@"
-private let txApiTestnetURL = "https://esplora-test.groestlcoin.org/api/v2/tx/%@"
+private let txApiFalbackURL = "https://esplora.groestlcoin.org/api/tx/%@"
+private let txApiTestnetURL = "https://esplora-test.groestlcoin.org/api/tx/%@"
 
 class StartImportViewController : UIViewController {
 
