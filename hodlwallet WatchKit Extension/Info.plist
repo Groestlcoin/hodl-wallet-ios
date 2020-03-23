@@ -37,7 +37,7 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>WKAppBundleIdentifier</key>
-			<string>org.groestlcoin.hodlgrs1.watchkitapp</string>
+			<string>org.groestlcoin.hodlgrs.watchkitapp</string>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.watchkit</string>
