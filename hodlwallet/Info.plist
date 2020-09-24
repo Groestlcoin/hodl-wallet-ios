@@ -73,10 +73,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>org.groestlcoin</string>
+			<string>org.groestlcoin.hodlgrs</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>bread</string>
+				<string>groestl</string>
 			</array>
 		</dict>
 		<dict>

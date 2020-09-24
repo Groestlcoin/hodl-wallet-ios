@@ -3,8 +3,8 @@ require 'xcodeproj'
 project_path = './hodlwallet.xcodeproj'
 $project = Xcodeproj::Project.open(project_path)
 
-$production_id = 'co.hodlwallet.dev'
-$development_id = 'co.hodlwallet.dev-testnet'
+$production_id = 'org.groestlcoin.hodlgrs-testnet'
+$development_id = 'org.groestlcoin.hodlgrsdev-testnet'
 
 desired_targets = ['hodlwallet', 'hodlwallet WatchKit App', 'hodlwallet WatchKit Extension', 'MessagesExtension', 'TodayExtension', 'NotificationServiceExtension']
 targets = $project.native_targets.select { |target| desired_targets.include? target.name }
