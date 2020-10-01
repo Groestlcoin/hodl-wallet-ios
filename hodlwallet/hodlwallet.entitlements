@@ -8,7 +8,7 @@
 	<string>NSFileProtectionComplete</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.groestlcoin.hodlgrs</string>
+		<string>group.org.groestlcoin.grshodl</string>
 	</array>
 </dict>
 </plist>
