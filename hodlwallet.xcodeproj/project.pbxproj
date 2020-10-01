@@ -4722,7 +4722,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = "hodlwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.watchkitapp.watchkitextension;
@@ -4739,7 +4739,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = "hodlwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.watchkitapp.watchkitextension;
@@ -4758,7 +4758,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				IBSC_MODULE = hodlwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "hodlwallet WatchKit App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -4779,7 +4779,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				IBSC_MODULE = hodlwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "hodlwallet WatchKit App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -4800,7 +4800,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = hodlwallet/hodlwallet.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = hodlwallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -4820,7 +4820,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = hodlwallet/hodlwallet.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = hodlwallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -4837,7 +4837,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletTests;
@@ -4852,7 +4852,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletTests;
@@ -4866,7 +4866,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletUITests;
@@ -4880,7 +4880,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletUITests;
@@ -4894,7 +4894,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -4908,7 +4908,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -4922,7 +4922,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.TodayExtension;
@@ -4935,7 +4935,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.TodayExtension;
@@ -4947,7 +4947,7 @@
 		75A2A8251DA5938500A983D8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -4961,7 +4961,7 @@
 		75A2A8261DA5938500A983D8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5114,7 +5114,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = hodlwallet/hodlwallet.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = hodlwallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -5132,7 +5132,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletTests;
@@ -5146,7 +5146,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletUITests;
@@ -5162,7 +5162,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				IBSC_MODULE = hodlwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "hodlwallet WatchKit App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -5181,7 +5181,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = "hodlwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.watchkitapp.watchkitextension;
@@ -5198,7 +5198,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5212,7 +5212,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.TodayExtension;
@@ -5224,7 +5224,7 @@
 		CEA7E6901F09AC6A001F8C27 /* Screenshots */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5426,7 +5426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = hodlwallet/hodlwallet.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = hodlwallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -5444,7 +5444,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletTests;
@@ -5458,7 +5458,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletUITests;
@@ -5474,7 +5474,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				IBSC_MODULE = hodlwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "hodlwallet WatchKit App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -5493,7 +5493,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = "hodlwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.watchkitapp.watchkitextension;
@@ -5510,7 +5510,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5524,7 +5524,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.TodayExtension;
@@ -5536,7 +5536,7 @@
 		CEA7E6A31F0AAA84001F8C27 /* Testnet */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5731,7 +5731,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = hodlwallet/hodlwallet.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = hodlwallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -5748,7 +5748,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletTests;
@@ -5762,7 +5762,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = hodlwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.hodlwalletUITests;
@@ -5778,7 +5778,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				IBSC_MODULE = hodlwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "hodlwallet WatchKit App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -5796,7 +5796,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = "hodlwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.watchkitapp.watchkitextension;
@@ -5813,7 +5813,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5827,7 +5827,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.groestlcoin.hodlgrs.TodayExtension;
@@ -5839,7 +5839,7 @@
 		CEE0EF5C1EBF8D7F0018DB36 /* Testflight */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = A82F56PX3Q;
+				DEVELOPMENT_TEAM = CMG3V3T59A;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
